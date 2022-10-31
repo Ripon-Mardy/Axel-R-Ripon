@@ -1,0 +1,335 @@
+@media (max-width: 1258px) {
+    .header-right ul li {
+        padding-left: 42px;
+    }
+}
+
+@media (max-width:1206px) {
+
+    .container{
+        max-width: 1098px;
+    }
+    .banner-img img {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 300px;
+    }
+
+    .banner-img .another-img {
+        width: 86px;
+    }
+
+    .design-contetn {
+        width: 209px;
+    }
+
+    .design-text h5 {
+        font-size: 15px;
+    }
+
+    .ux-design {
+        width: 200px;
+    }
+
+    .ux-design h5 {
+        font-size: 15px;
+    }
+
+    .ux-icons span {
+        font-size: 25px;
+    }
+
+    .ux-content p {
+        font-size: 12px;
+    }
+
+    .design-text p {
+        font-size: 14px;
+    }
+
+    .about-me-img img {
+        max-width: 328px;
+    }
+
+    .about-me-intro .about-cv-button a {
+        padding: 10px 25px;
+        font-size: 1.1rem;
+    }
+    .about-me-intro h1 {
+        font-size: 35px;
+    }
+}
+
+
+@media (max-width:998px) {
+    .container{
+        max-width: 896px;
+    }
+
+    .banner-content h1 {
+        font-size: 27px;
+    }
+
+    .banner-content h1 b {
+        font-size: 62px;
+    }
+
+    .banner-content button {
+        padding: 6px 23px;
+    }
+    .about-me-social-madia ul li {
+        padding: 0px 12px;
+        font-size: 18px;
+    }
+    .about-email strong {
+        font-size: 18px;
+        margin-top: 0px;
+    }
+    .about-email span {
+        font-size: 20px;
+    }
+
+}
+
+@media (max-width:886px) {
+    .header-right ul li {
+        padding-left: 28px;
+    }
+    
+}
+
+@media (max-width:846px) {
+    .about-me-intro.mt-4 {
+        margin-top: 0px !important;
+    }
+    .about-me-intro h1 {
+        font-size: 32px;
+    }
+    .about-email strong {
+        font-size: 16px;
+    }
+    .about-email span {
+        font-size: 19px;
+    }
+    .about-me-intro .about-cv-button a {
+        padding: 7px 25px;
+        font-size: 1rem;
+    }
+
+    .contact-me-map iframe{
+        width: 321px;
+        margin-bottom: 20px;
+    }
+    
+}
+
+@media (max-width:792px) {
+
+}
+
+
+@media (max-width:779px) {
+
+    .container{
+        max-width: 875px;
+    }
+    .about-me-img.text-center {
+        text-align: left !important;
+    }
+
+
+    .header-right ul {
+        position: absolute;
+        top: 87%;
+        background: rgb(85, 85, 85);
+        max-width: 464px;
+        border-radius: 5px;
+        height: 0%;
+        visibility: hidden;
+        opacity: 0;
+        transition: all .4s ease-in-out;
+    }
+    .header-right ul.sticky{
+        visibility: visible;
+        opacity: 1;
+        height: 255px;
+    }
+
+    .header-right ul li {
+        display: block;
+        width: 459px;
+        text-align: left;
+        padding: 10px 20px;
+    }
+    .header-right ul li a{
+        color: white;
+    }
+
+    .all-recent-button ul li{
+        margin-bottom: 10px;
+    }
+
+    .heder-menu.removena{
+        visibility: hidden;
+    }
+
+    .crose-menu
+    {
+        visibility: hidden;
+    }
+
+    .crose-menu.visible{
+        visibility: visible;
+    }
+
+    .heder-menu{
+        display: block;
+    }
+    .crose-menu{
+        display: block;
+    }
+
+}
+
+@media (max-width:766px) {
+    .container{
+        max-width: 675px;
+    }
+
+    .avaiable-freelancing {
+        padding: 43px;
+    }
+}
+
+@media (max-width:672px) {
+    .avaiable-content h1 {
+        font-size: 27px;
+    }
+
+    .avaiable-content a {
+        padding: 8px 27px;
+        font-size: 1rem;
+    }
+
+    .banner-img img {
+        width: 279px;
+    }
+
+    .avaiable-freelancing {
+        padding: 26px;
+    }
+}
+
+
+@media (max-width:580px) {
+
+    .banner-section {
+        padding: 35px 0;
+    }
+    .services-content {
+        margin-bottom: 30px;
+    }
+    .services-content {
+        margin-bottom: 28px;
+    }
+
+    .defult-top{
+        margin-top: 0px !important;
+    }
+
+    .services-right h5 {
+        font-size: 13px;
+    }
+
+    .services-right h1 {
+        font-size: 29px;
+    }
+
+    .services-right h1 b {
+        font-size: 59px;
+    }
+
+    .services-right button {
+        padding: 9px 14px;
+        font-size: 1.1rem;
+    }
+    .about-me-img img {
+        max-width: 295px;
+    }
+    .about-me-intro.mt-4 {
+        margin-top: 22px !important;
+    }
+    .recent-project-right.text-center {
+        margin-bottom: 65px;
+    }
+
+}
+
+@media (max-width:575px) {
+    .banner-img.text-center {
+        margin-top: 53px;
+    }
+}
+
+@media (max-width:524px) {
+    .avaiable-content h1 {
+        font-size: 21px;
+    }
+    .avaiable-content a {
+        padding: 6px 24px;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width:432px) {
+    .avaiable-content h1 {
+        font-size: 16px;
+    }
+    .avaiable-content a {
+        padding: 4px 19px;
+        font-size: .8rem;
+    }
+}
+
+@media (max-width:362px) {
+    .banner-img.text-center {
+        margin-top: 38px;
+    }
+    .avaiable-content h1 {
+        font-size: 16px;
+    }
+    .avaiable-content a {
+        padding: 4px 19px;
+        font-size: .8rem;
+    }
+    .complete-project-main a {
+        padding: 9px 14px;
+    }
+    .contact-me-map iframe {
+        width: 286px;
+        height: 283px;
+        margin-bottom: 20px;
+    }
+    .recent-project-button.text-center {
+        z-index: 1111111;
+    }
+
+    .banner-img {
+        margin-top: 402px;
+    }
+}
+
+@media (max-width:320px) {
+    .contact-me-map iframe {
+        width: 237px;
+        height: 228px;
+    }
+}
+
+@media (max-width:278px) {
+    .contact-me-map iframe {
+        width: 167px;
+        height: 174px;
+    }
+}
